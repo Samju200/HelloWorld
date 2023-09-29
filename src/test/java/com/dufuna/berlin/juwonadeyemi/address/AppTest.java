@@ -1,4 +1,4 @@
-package org.example;
+package com.dufuna.berlin.juwonadeyemi.address;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

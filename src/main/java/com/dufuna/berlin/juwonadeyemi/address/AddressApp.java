@@ -1,10 +1,10 @@
-package org.example;
+package com.dufuna.berlin.juwonadeyemi.address;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class AddressApp
 {
     public static void main( String[] args )
     {
